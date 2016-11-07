@@ -1,0 +1,26 @@
+.nav li a {_height: 0;zoom: 1;} /* IE7 Fix */
+.button, .button:visited {  padding:7px 6px; margin:0; }
+#recent-posts, #older-posts  { zoom: 1; }
+.widget h3 span  { top: 32px; }
+#footer-widgets .widget h3  {  position: static; }
+
+#slideshow  {padding-top:28px; }
+
+#banner_right ul#nav li#prev {
+    float: left;
+    margin: 0 0px 0 -30px;
+}
+#banner_right ul#nav li#next {
+margin: -5px 0 0 412px;
+    
+}
+
+input.donate { margin-right:-20px; display:block; }
+
+form.donate{ display:block; height:40px; }
+
+table.donate_bar td.butt {
+    padding: 0px 0 0 20px;
+    width: 210px;
+	
+}

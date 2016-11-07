@@ -1,0 +1,11 @@
+.nav .sf-sub-indicator { display:none; }
+.nav li a:hover { text-decoration:none; }
+.nav li a.sf-with-ul { padding-right:10px; }
+.button, .button:visited { margin:0; color:#555 !important; font-weight:normal; } .reply a {  color:#555 !important; }
+body  { background: none; }
+#recent-posts, #older-posts  { zoom: 1; }
+.widget h3 span  { top: 34px; }
+#footer-widgets .widget h3  {  position: static; }
+
+#tabs ul.medTabs li a { margin-right: 3px; }
+#footer #credits img{vertical-align:top; zoom:1;}

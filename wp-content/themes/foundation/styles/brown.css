@@ -1,0 +1,79 @@
+/* brown style - brown.css */
+
+#head {
+background: #fbeeba;}
+
+#head_content {
+background: #fbeeba;}
+
+#top-nav a.home {
+background:url("brown/home_icon.png") no-repeat; }
+
+#top-nav a { color:#7b5f38;}
+
+#banner_left h1 {color: #7b5f38;}
+
+#banner_left p {
+color:#836c4d;}
+
+a.more {
+background:url("brown/more_but.png") no-repeat;  }
+
+span.side_arrow {
+background:url("brown/side_arrow.png") no-repeat;}
+
+
+#ribbon {
+background:url("brown/ribbon.png") repeat-x;}
+
+#ribbon_content {
+background:url("brown/ribbonc.png") repeat-x;}
+
+table.donate_bar {
+background:url("brown/donate_arrows.png") no-repeat center center; }
+
+input.donate, input.donate_side {
+background:url("brown/donate_but.png") no-repeat;
+color: #FFFFFF;}
+
+div.donate-widget {
+background:url("brown/donate_texture.png") repeat;
+border:1px solid #c4a273;}
+
+div.donate-widget-border {
+background-color:#8F734C;}
+
+div.donate-widget p {
+color: #FFFFFF;}
+
+#banner_right {
+background:url("brown/slide_bak.png") no-repeat;}
+
+.widget h3 {
+color:#8F734C;}
+
+h3, h4, h5 {
+color:#8F734C;}
+
+div.entry h2 {
+color:#8F734C;}
+
+#welcome_home i {color: #8f734c;}
+
+#home_box {
+background-color:#FBEEBA;
+border:1px solid #D1C07F;}
+
+#inner_box {
+background-color:#FCF7E3;}
+
+#inner_box h2 {
+color:#937750;}
+
+#footer {
+background-color:#fbeeba;
+background-image:url("brown/foot_bak.png");
+background-repeat:repeat-x;}
+
+#footer li a {
+color:#59360d;}
